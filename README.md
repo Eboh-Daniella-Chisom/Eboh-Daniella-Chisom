@@ -2,7 +2,7 @@
 - 👀 I’m interested in python
 - 🌱 I’m currently learning python at cs50
 - 💞️ I’m looking to collaborate on so many things,machine learning,data science...
-- 📫 How to reach me 
+- 📫 How to reach me : ebohchisomdaniella@gmail.com 
 - 😄 Pronouns: HER
 - ⚡ Fun fact: I sing
 
